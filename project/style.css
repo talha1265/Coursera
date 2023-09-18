@@ -1,0 +1,33 @@
+body{
+    background-color: maroon;
+
+}
+#header-nav{
+    border-radius: 0%;
+    border: 0;
+    background-color: #f6b319;
+}
+.company-logo img{
+  border-radius: 20%;
+  width: 75px;
+}
+li{
+    text-decoration: none;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.flex{
+    display: flex;
+}
+.brand-name{
+    justify-content: center;
+    align-items: center;
+
+}
+.li {
+    justify-content: space-between;
+    gap: 105px;
+}
